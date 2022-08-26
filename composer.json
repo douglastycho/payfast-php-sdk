@@ -15,7 +15,6 @@
             "email": "claire.grant@payfast.co.za"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.1",
         "guzzlehttp/guzzle": ">=6.0.0",
